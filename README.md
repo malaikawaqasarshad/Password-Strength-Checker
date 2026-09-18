@@ -1,10 +1,6 @@
 # Password-Strength-Checker
 This password strength checker analyses variation of characters and length to determine the strength of a given password.
 
-# 🔐 Password Strength Checker
-
-A simple password strength checker that evaluates passwords based on common security criteria and gives the user feedback on how they can make their password stronger.
-
 ## Features
 
 * Checks password length
@@ -12,7 +8,6 @@ A simple password strength checker that evaluates passwords based on common secu
 * Checks for numbers
 * Checks for special characters
 * Gives a strength rating
-* Provides suggestions for improving weak passwords
 
 ## Preview
 
