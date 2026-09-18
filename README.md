@@ -11,7 +11,9 @@ This password strength checker analyses variation of characters and length to de
 
 ## Preview
 
-<img width="1920" height="1080" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/9d6c007b-7312-4598-802c-a5a4087eddd4" />
+
+<img width="1863" height="865" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/ad611916-9a2e-488f-ab84-6cae31839961" />
+
 
 ### Installation
 
