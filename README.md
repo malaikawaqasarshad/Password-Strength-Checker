@@ -53,15 +53,9 @@ The checker evaluates things such as:
 
 > **Note:** This is an educational password-strength checker, not a guarantee that a password is secure. Password strength depends on more than just character types and length.
 
-## 📚 What I Learned
+## What I Learned
 
-This project helped me practise:
-
-* JavaScript string manipulation
-* Conditional logic
-* Regular expressions
-* DOM manipulation
-* Creating user feedback based on input
+This project helped me consolidate my learning from lecture 1 of the Harvard CS50x Introduction to Cybersecurity course.
 
 ## Future Improvements
 
